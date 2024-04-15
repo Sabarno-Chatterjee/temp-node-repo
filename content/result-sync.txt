@@ -1,0 +1,1 @@
+Result check : Hello first text file Hello second text fileResult check append: Hello first text file Hello second text fileResult check append: Hello first text file Hello second text file/n
